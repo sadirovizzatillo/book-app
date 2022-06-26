@@ -59,7 +59,7 @@
 </script>
 
 <style scoped>
-  @import url(../static/app.css);
+  @import url("../static/app.css");
   .sign-in{
     display: flex;
     justify-content: center;
